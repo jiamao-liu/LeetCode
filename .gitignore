@@ -1,0 +1,63 @@
+### maven ####
+.mvn
+mvnw
+mvnw.cmd
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+######################################################################
+# 2. IDE
+
+### STS ############
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### JRebel ##########
+rebel.xml
+
+### NetBeans ########
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### VS Code #########
+.vscode/
+
+### Hbuilder ########
+.hbuilderx
+
+######################################################################
+# 3. Others
+
+### log #############
+logs/
+*.log
+*.log.*.gz
+*.log.*.tmp
+
+### node_modules ####
+/mcsx-admin/node_modules/
+/mcsx-app/node_modules/
+
+### others ##########
+*.xml.versionsBackup
+*.swp
+HELP.md
+————————————————
+版权声明：本文为CSDN博主「cloneme01」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/goodjava2007/article/details/129751422
