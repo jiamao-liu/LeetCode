@@ -1,5 +1,8 @@
 package com.jiamao.L0276;
 
+// 动态规划
+// 需要寻找规律，每次记录AB和AA两种类型的数量试试
+
 public class Solution {
     public int numWays(int n, int k) {
         if (n==1)
