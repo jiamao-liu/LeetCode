@@ -1,4 +1,8 @@
 package com.jiamao.L0265;
+
+// 提示1：动态规划
+// 提示2：根据上一个房子计算当前房子
+
 public class Solution {
     public int minCostII(int[][] costs) {
         int houseNum = costs.length;
