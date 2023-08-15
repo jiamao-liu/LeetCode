@@ -1,5 +1,6 @@
 package com.jiamao.J060;
 
+// https://leetcode.cn/problems/nge-tou-zi-de-dian-shu-lcof/
 // 这道题虽然骰子少，但是指数级的概率很难暴力解
 // 提示：动态规划，模拟一个一个的掷骰子
 
